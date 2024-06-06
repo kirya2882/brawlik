@@ -1,0 +1,98 @@
+{
+  "trophies": 99930,
+  "brawlers": {
+    "spik": {
+      "unlock": true,
+      "skins": {
+        "spik_sakura": true,
+        "woodnewyear_spik": true
+      },
+      "gerch": null
+    },
+    "8_bit": {
+      "unlock": true,
+      "skins": null,
+      "gerch": null
+    },
+    "crow": {
+      "unlock": true,
+      "skins": null,
+      "gerch": null
+    },
+    "edgar": {
+      "unlock": true,
+      "skins": null,
+      "gerch": null
+    },
+    "frenk": {
+      "unlock": true,
+      "skins": null,
+      "gerch": null
+    },
+    "geyl": {
+      "unlock": true,
+      "skins": null,
+      "gerch": null
+    },
+    "leon": {
+      "unlock": true,
+      "skins": null,
+      "gerch": null
+    },
+    "poco": {
+      "unlock": true,
+      "skins": {
+        "poco_pirate": true
+      },
+      "gerch": null
+    },
+    "stu": {
+      "unlock": true,
+      "skins": null,
+      "gerch": null
+    },
+    "serge": {
+      "unlock": true,
+      "skins": null,
+      "gerch": null
+    },
+    "mrs_pi": {
+      "unlock": true,
+      "skins": null,
+      "gerch": null
+    }
+  },
+  "currency": {
+    "coin": 0,
+    "coin_strong": 0,
+    "gems": 0,
+    "gem_box": 299,
+    "gem_bigbox": 0
+  },
+  "gift_day": {
+    "time_click": 1,
+    "time_gift": 1715271148,
+    "time_next_gift": 1715271148,
+    "item_gift": "gems",
+    "amount_gift": 1
+  },
+  "buy_shop": {
+    "buy1": "gerch",
+    "buy1num": "8_bit",
+    "click1": 0,
+    "buy2": "gerch",
+    "buy2num": "edgar",
+    "click2": 0,
+    "buy3": "gerch",
+    "buy3num": "mrs_pi",
+    "click3": 0,
+    "buy4": "coin",
+    "buy4num": 250,
+    "click4": 0
+  },
+  "skins_shop": {
+    "skins_1": null,
+    "skins_2": null,
+    "next_skins": 1715271148
+  }
+}
